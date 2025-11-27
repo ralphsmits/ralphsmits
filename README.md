@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ralphsmits
-- 👀 I’m interested in women
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on eating meatball sub
-- 📫 How to reach me idk
+- 👀 I’m interested in Media Design
+- 🌱 I’m currently learning Communication & Multimedia Design
 
 <!---
 ralphsmits/ralphsmits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
